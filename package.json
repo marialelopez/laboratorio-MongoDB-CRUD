@@ -1,0 +1,16 @@
+{
+  "name": "mongolab",
+  "version": "1.0.0",
+  "description": "MongoDB ADA School Labs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MongoDB",
+    "Mongo",
+    "Atlas"
+  ],
+  "author": "Sergio Marentes",
+  "license": "ISC"
+}
